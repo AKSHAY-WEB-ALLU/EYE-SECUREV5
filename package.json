@@ -1,0 +1,8 @@
+{
+  "name": "eye-secure-quotation-builder-v4-cloud",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log('EYE SECURE V4 static site ready for Vercel')\""
+  }
+}
